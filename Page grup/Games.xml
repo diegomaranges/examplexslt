@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <game>
+    <branch> Manada </branch>
+    <name>Banderlog vs Lobatos y Lobeznas.</name>
+    <growingAreas>Corporalidad</growingAreas>
+    <growingAreas>Afectividad</growingAreas>
+    <educationalObjective>Participo de juegos, deportes y actividades al aire libre</educationalObjective>
+    <educationalObjective>Realizo mis actividades con chicos y chicas</educationalObjective>
+    <introduction>Se divide a la manada en dos, unos son los banderlog y los otros son
+    lobos que pertenecen al pueblo libre, los banderlog tienen que atrapar a los lobos y
+    llevarlos a su guarida.</introduction>
+    <description>1. Se divide a la manada en dos seisenas ideales, unos serán los banderlog y otros los
+    lobos pertenecientes al pueblo libre.
+    2. Se fija un lugar como un banco, un poste o algo así para hacer de guarida de los
+    banderlog y empieza entonces el juego.
+    3. Los banderlog dan un tiempo para que los lobos huyan y después salen a perseguirlos.
+    4. Cuando un banderlog atrapa a un lobo, lo conduce a la cárcel. Un lobo no puede
+    abandonar la cárcel a menos que lo toque un compañero que no esté atrapado. Los
+    banderlogs montan guardia en la cárcel para evitar el rescate de los prisioneros.
+    5. Cuando todos los ladrones son atrapados se cambian los papeles y se vuelve a jugar.</description>
+    <duration> 30 minutos </duration>
+    <materials> - </materials>
+  </game>
+</catalog>
